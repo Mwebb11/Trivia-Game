@@ -1,0 +1,57 @@
+body {  background-image: url(dragonfantasy.jpg); } 
+.Container {
+    background-image: url(epicfantasy.jpg);
+    border-radius: 8px;
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+    box-shadow: 12px 10px 15px #870;
+    position: relative;
+}
+.next {
+    box-shadow: 4px 4px 6px #870;
+    border-radius: 8px;
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    background-color: teal;
+    color: black;
+    
+    position: relative;
+    margin: auto;
+    padding-top: 20px;
+}
+.question {
+    
+    font-size: 3em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;
+    background-color:white;
+    opacity: .5;
+    text-align: center;
+}
+.Message {
+    background-color:lightcoral;
+    border-radius: 8px;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    padding: 3px;
+    
+    color:orange;
+}
+.choices {
+    font-family: Courier, serif;
+    color: yellow;
+}
+.result {
+    width: 30%;
+    height: auto;
+    border-radius: 6px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    
+}
